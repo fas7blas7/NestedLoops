@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\refint\2-EvenPowersOf2.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\ref\2-EvenPowersOf2.dll
