@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434669D7-2F97-484A-8CC7-A1CB46C47449}|8-PrimeNumbers\\8-PrimeNumbers.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\8-primenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434669D7-2F97-484A-8CC7-A1CB46C47449}|8-PrimeNumbers\\8-PrimeNumbers.csproj|solutionrelative:8-primenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8076F559-4677-433C-8768-751CB1200CED}|5-PrimePyramid\\5-NumberPyramid.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\5-primepyramid\\numberpyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8076F559-4677-433C-8768-751CB1200CED}|5-PrimePyramid\\5-NumberPyramid.csproj|solutionrelative:5-primepyramid\\numberpyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B1C88D-44D4-4BF9-9305-A0390B9526B5}|6-TravelSavings\\6-TravelSavings.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\6-travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B1C88D-44D4-4BF9-9305-A0390B9526B5}|6-TravelSavings\\6-TravelSavings.csproj|solutionrelative:6-travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EBA306-C449-43DB-992C-DA2092C0E1BD}|7-SumOfDigits\\7-SumOfDigits.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\7-sumofdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EBA306-C449-43DB-992C-DA2092C0E1BD}|7-SumOfDigits\\7-SumOfDigits.csproj|solutionrelative:7-sumofdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF2C4D9-1D0D-492E-8258-ED18F950D911}|4-Building\\4-Building.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\4-building\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF2C4D9-1D0D-492E-8258-ED18F950D911}|4-Building\\4-Building.csproj|solutionrelative:4-building\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDA20F8-0F4F-4D5E-9D2A-D15E275B751E}|3-TriangleOfStars\\3-TriangleOfStars.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\3-triangleofstars\\triangleofstars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDA20F8-0F4F-4D5E-9D2A-D15E275B751E}|3-TriangleOfStars\\3-TriangleOfStars.csproj|solutionrelative:3-triangleofstars\\triangleofstars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAC3C17-747F-40AC-8BC5-75DD4DB73223}|2-EvenPowersOf2\\2-EvenPowersOf2.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\2-evenpowersof2\\evenpowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAC3C17-747F-40AC-8BC5-75DD4DB73223}|2-EvenPowersOf2\\2-EvenPowersOf2.csproj|solutionrelative:2-evenpowersof2\\evenpowers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB97EEA0-30AC-4439-B8C2-343CAACB0520}|1-NumbersFrom-N-To-1\\1-NumbersFrom-N-To-1.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\nested-loops\\1-numbersfrom-n-to-1\\numbersfromnto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB97EEA0-30AC-4439-B8C2-343CAACB0520}|1-NumbersFrom-N-To-1\\1-NumbersFrom-N-To-1.csproj|solutionrelative:1-numbersfrom-n-to-1\\numbersfromnto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\8-PrimeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "8-PrimeNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\8-PrimeNumbers\\Program.cs",
+              "RelativeToolTip": "8-PrimeNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:48:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\7-SumOfDigits\\Program.cs",
+              "RelativeDocumentMoniker": "7-SumOfDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\7-SumOfDigits\\Program.cs",
+              "RelativeToolTip": "7-SumOfDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:47:19.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\6-TravelSavings\\Program.cs",
+              "RelativeDocumentMoniker": "6-TravelSavings\\Program.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\6-TravelSavings\\Program.cs",
+              "RelativeToolTip": "6-TravelSavings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:46:28.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberPyramid.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\5-PrimePyramid\\NumberPyramid.cs",
+              "RelativeDocumentMoniker": "5-PrimePyramid\\NumberPyramid.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\5-PrimePyramid\\NumberPyramid.cs",
+              "RelativeToolTip": "5-PrimePyramid\\NumberPyramid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:40:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\4-Building\\Building.cs",
+              "RelativeDocumentMoniker": "4-Building\\Building.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\4-Building\\Building.cs",
+              "RelativeToolTip": "4-Building\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:38:33.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriangleOfStars.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\3-TriangleOfStars\\TriangleOfStars.cs",
+              "RelativeDocumentMoniker": "3-TriangleOfStars\\TriangleOfStars.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\3-TriangleOfStars\\TriangleOfStars.cs",
+              "RelativeToolTip": "3-TriangleOfStars\\TriangleOfStars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:37:01.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EvenPowers.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\2-EvenPowersOf2\\EvenPowers.cs",
+              "RelativeDocumentMoniker": "2-EvenPowersOf2\\EvenPowers.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\2-EvenPowersOf2\\EvenPowers.cs",
+              "RelativeToolTip": "2-EvenPowersOf2\\EvenPowers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T12:26:37.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumbersFromNTo1.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\1-NumbersFrom-N-To-1\\NumbersFromNTo1.cs",
+              "RelativeDocumentMoniker": "1-NumbersFrom-N-To-1\\NumbersFromNTo1.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\NESTED-LOOPS\\1-NumbersFrom-N-To-1\\NumbersFromNTo1.cs",
+              "RelativeToolTip": "1-NumbersFrom-N-To-1\\NumbersFromNTo1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:25:20.966Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

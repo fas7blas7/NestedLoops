@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\bin\Debug\net8.0\1-NumbersFrom-N-To-1.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\bin\Debug\net8.0\1-NumbersFrom-N-To-1.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\bin\Debug\net8.0\1-NumbersFrom-N-To-1.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\bin\Debug\net8.0\1-NumbersFrom-N-To-1.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\bin\Debug\net8.0\1-NumbersFrom-N-To-1.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\refint\1-NumbersFrom-N-To-1.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\1-NumbersFrom-N-To-1.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\1-NumbersFrom-N-To-1\obj\Debug\net8.0\ref\1-NumbersFrom-N-To-1.dll
