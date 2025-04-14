@@ -6,15 +6,15 @@ for (int floor = countOfFloors; floor >= 1; floor--)
 {
     for (int room = 0; room < countOfRooms; room++)
     {
-        if (floor == countOfFloors) // проверка дали сме на последния етаж
+        if (floor == countOfFloors)
         {
             Console.Write($"L{floor}{room} ");
         }
-        else if (floor % 2 == 0) // проветка дали сме на четен етаж
+        else if (floor % 2 == 0)
         {
             Console.Write($"O{floor}{room} ");
         }
-        else if (floor % 2 == 1) // проверка дали сме на нечетен етаж
+        else if (floor % 2 == 1)
         {
             Console.Write($"A{floor}{room} ");
         }
