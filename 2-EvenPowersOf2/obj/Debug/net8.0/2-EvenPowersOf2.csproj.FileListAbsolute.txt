@@ -12,3 +12,18 @@ C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\
 C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.pdb
 C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.genruntimeconfig.cache
 C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\ref\2-EvenPowersOf2.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.exe
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.deps.json
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.runtimeconfig.json
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\bin\Debug\net8.0\2-EvenPowersOf2.pdb
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.AssemblyInfoInputs.cache
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.AssemblyInfo.cs
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.sourcelink.json
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\refint\2-EvenPowersOf2.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.pdb
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\2-EvenPowersOf2.genruntimeconfig.cache
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\12-NESTED-LOOPS\NESTED-LOOPS\2-EvenPowersOf2\obj\Debug\net8.0\ref\2-EvenPowersOf2.dll

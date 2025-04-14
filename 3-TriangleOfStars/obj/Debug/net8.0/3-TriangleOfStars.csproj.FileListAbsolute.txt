@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\bin\Debug\net8.0\3-TriangleOfStars.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\bin\Debug\net8.0\3-TriangleOfStars.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\bin\Debug\net8.0\3-TriangleOfStars.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\bin\Debug\net8.0\3-TriangleOfStars.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\bin\Debug\net8.0\3-TriangleOfStars.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\refint\3-TriangleOfStars.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\3-TriangleOfStars.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\3-TriangleOfStars\obj\Debug\net8.0\ref\3-TriangleOfStars.dll

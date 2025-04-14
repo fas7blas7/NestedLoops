@@ -1,6 +1,6 @@
-﻿int chislo = int.Parse(Console.ReadLine());
+﻿int number = int.Parse(Console.ReadLine());
 
-for (int neshto = chislo; neshto >= 1; neshto --)
+for (int apples = number; apples >= 1; apples--)
 {
-    Console.WriteLine(neshto);
+    Console.WriteLine(apples);
 }
