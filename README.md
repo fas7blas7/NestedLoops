@@ -4,7 +4,6 @@ Namespace: _1_CountdownApples
 Reads an integer and prints a countdown from that number down to 1.
 
 📝 Code:
-
 ```csharp
 int number = int.Parse(Console.ReadLine());
 
@@ -84,13 +83,126 @@ for (int floor = countOfFloors; floor >= 1; floor--)
 
     Console.WriteLine();
 }
+```
+5️⃣ PrimePyramid ⛰️
+Namespace: _5_PrimePyramid
+📌 Description:
+Prints a pyramid of incrementing numbers up to a given number, one layer at a time.
 
+📝 Code:
+```
+int end = int.Parse(Console.ReadLine());
+int currentNum = 1;
+
+for (int i = 1; i <= end; i++)
+{
+    for (int j = 1; j <= i; j++)
+    {
+        Console.Write(currentNum + " ");
+        currentNum++;
+
+        if (currentNum > end)
+        {
+            break;
+        }
+    }
+
+    Console.WriteLine();
+
+    if (currentNum > end)
+    {
+        break;
+    }
+}
+```
+6️⃣ TravelSavings 💰✈️
+Namespace: _6_TravelSavings
+📌 Description:
+Saves money for each destination and announces once enough has been collected.
+
+📝 Code:
+```
+string destination = Console.ReadLine();
+
+while (destination != "End")
+{
+    double neededMoney = double.Parse(Console.ReadLine());
+    double savedMoney = 0;
+
+    while (savedMoney < neededMoney)
+    {
+        double currentMoney = double.Parse(Console.ReadLine());
+        savedMoney += currentMoney;
+
+        Console.WriteLine($"Collected: {savedMoney:F2}");
+    }
+
+    Console.WriteLine($"Going to {destination}!");
+
+    destination = Console.ReadLine();
+}
+```
+7️⃣ SumOfDigits 🔢
+Namespace: _7_SumOfDigits
+📌 Description:
+Calculates and displays the sum of digits of each entered number until "End" is typed.
+
+📝 Code:
+```
+string input = Console.ReadLine();
+
+while (input != "End")
+{
+    int number = int.Parse(input);
+    int sum = 0;
+
+    while (number > 0)
+    {
+        int lastDigit = number % 10;
+        sum += lastDigit;
+        number /= 10;
+    }
+
+    Console.WriteLine($"Sum of digits = {sum}");
+
+    input = Console.ReadLine();
+}
+
+Console.WriteLine("Goodbye");
+```
+8️⃣ PrimeNumbers 🔍
+Namespace: _8_PrimeNumbers
+📌 Description:
+Prints all prime numbers within a user-specified range.
+
+📝 Code:
+```
+int start = int.Parse(Console.ReadLine()); 
+int end = int.Parse(Console.ReadLine());   
+
+for (int num = start; num <= end; num++)
+{
+    int primeCounter = 0;
+
+    for (int i = 1; i <= num; i++)
+    {
+        if (num % i == 0)
+        {
+            primeCounter++;
+        }
+    }
+
+    if (primeCounter == 2)
+    {
+        Console.Write($"{num} ");
+    }
+}
 ```
 📅 Updated Commit Progress:
 
-📅 Current Progress: 372 commits
+📅 Current Progress: 377 commits
 📊 Progress Bar:
-█████████████████████████▒ 74.4% (372/500)
+██████████████████████████░ 75.4% (377/500)
 
 📌 Milestones:
 ✅ 100 commits
@@ -101,4 +213,4 @@ for (int floor = countOfFloors; floor >= 1; floor--)
 🎯 Commit Progress Tracker
 
 🚀 Goal: 500 commits in 2025
-📅 Current Progress: 372 commits
+📅 Current Progress: 377 commits
