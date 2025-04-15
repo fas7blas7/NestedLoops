@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\bin\Debug\net8.0\8-PrimeNumbers.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\bin\Debug\net8.0\8-PrimeNumbers.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\bin\Debug\net8.0\8-PrimeNumbers.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\bin\Debug\net8.0\8-PrimeNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\bin\Debug\net8.0\8-PrimeNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\refint\8-PrimeNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\8-PrimeNumbers.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\8-PrimeNumbers\obj\Debug\net8.0\ref\8-PrimeNumbers.dll
