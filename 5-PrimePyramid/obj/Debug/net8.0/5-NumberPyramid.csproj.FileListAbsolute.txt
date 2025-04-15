@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\bin\Debug\net8.0\5-NumberPyramid.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\bin\Debug\net8.0\5-NumberPyramid.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\bin\Debug\net8.0\5-NumberPyramid.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\bin\Debug\net8.0\5-NumberPyramid.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\bin\Debug\net8.0\5-NumberPyramid.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\refint\5-NumberPyramid.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\5-NumberPyramid.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\NESTED-LOOPS\5-PrimePyramid\obj\Debug\net8.0\ref\5-NumberPyramid.dll
